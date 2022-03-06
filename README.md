@@ -38,7 +38,7 @@ On the <b>Google Project</b> column, click on the <b>Project ID</b>
 Configure your <b>Google Console Platform</b> according to the following instructions https://cloud.google.com/dialogflow/es/docs/quick/setup.
 Make sure to <b>enable billing</b> of the project during this process.
 
-Ensure to download the <b>service.json</b> file. I have named mine credentials.json. For purposes of security, I will remove this file before commit.
+Ensure to download the <b>service.json</b> file and save it in the assets folder. I have named mine credentials.json. For purposes of security, I will remove this file before commit.
 
 
 
