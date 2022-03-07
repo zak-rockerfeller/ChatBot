@@ -51,6 +51,6 @@ Lastly, copy and paste the Flutter UI to your project and you will be good to go
 <h4>Hope it works ;) </h4>
 
 
-<h5>Check out <h3>Chatbot 2.0</h3> created using NLP</h5>
+<h5>Check out <b>Chatbot 2.0</b> created using NLP</h5>
 
 
