@@ -51,6 +51,27 @@ Lastly, copy and paste the Flutter UI to your project and you will be good to go
 <h4>Hope it works ;) </h4>
 
 
-<h5>Check out <b>Chatbot 2.0</b> created using NLP</h5>
+
+
+<h3>Chatbot 2.0</h3>
+
+This chatbot has been created using NLP. Natural language processing (NLP) is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP.
+
+
+<h4>Output</h4>
+
+
+![chatbot1_output](https://user-images.githubusercontent.com/55271909/157050642-75426eb0-8864-46b4-af0e-bf89394798eb.png)
+![chatbot_output](https://user-images.githubusercontent.com/55271909/157050663-70e980a7-7c04-451d-adca-0667a4027652.png)
+
+
+![chatbot_output](https://user-images.githubusercontent.com/55271909/157050671-d1858392-4ca2-4c4a-9c4b-31814150e2c8.png)
+
+
+
+
+
+
+
 
 
