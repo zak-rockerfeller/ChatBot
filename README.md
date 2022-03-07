@@ -1,4 +1,4 @@
-<h3>Chatbot</h3>
+<h3>Chatbot 1.0</h3>
 
 In this method, we will use Dialod FLow for the AI and Flutter for the frontend. This is the expected output.
 
@@ -49,5 +49,8 @@ Ensure to download the <b>service.json</b> file and save it in the assets folder
 Lastly, copy and paste the Flutter UI to your project and you will be good to go.
 
 <h4>Hope it works ;) </h4>
+
+
+<h5>Check out <h3>Chatbot 2.0</h3> created using NLP</h5>
 
 
