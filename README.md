@@ -61,11 +61,11 @@ This chatbot has been created using NLP. Natural language processing (NLP) is a 
 <h4>Output</h4>
 
 
-![chatbot1_output](https://user-images.githubusercontent.com/55271909/157050642-75426eb0-8864-46b4-af0e-bf89394798eb.png)
-![chatbot_output](https://user-images.githubusercontent.com/55271909/157050663-70e980a7-7c04-451d-adca-0667a4027652.png)
+![output21](https://user-images.githubusercontent.com/55271909/157051068-005249ed-31c6-4607-814c-d47d03488f2e.png)
 
 
-![chatbot_output](https://user-images.githubusercontent.com/55271909/157050671-d1858392-4ca2-4c4a-9c4b-31814150e2c8.png)
+As you can see, Cartman and I had a really deep conversation lol. Cartman is also hilarious and has some interesting facts.
+
 
 
 
