@@ -1,0 +1,42 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!" ,"Peace"],
+     "context_set": ""
+    },
+    {"tag": "age",
+     "patterns": ["how old", "how old is chris", "what is your age", "how old are you", "age?"],
+     "responses": ["Old enough!", "I was born yesterday :)", "Barely legal, lol"],
+     "context_set": ""
+    },
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "whats your name?"],
+     "responses": ["You can call me Chris.", "I'm Chris!", "I'm Christopher aka Chris.", "My name is Christopher Wallace, but you can call me Chris"],
+     "context_set": ""
+    },
+    {"tag": "hobbies",
+     "patterns": ["What do you like", "what are your interests", "what do you enjoy doing?"],
+     "responses": ["I enjoy talking to you", "I find science really interesting", "I like Artificial Intelligence"],
+     "context_set": ""
+    },
+    {"tag": "jokes",
+     "patterns": ["make me laugh", "tell me a joke", "joke", "funny"],
+     "responses": ["What do you call a dinosaur that is sleeping? A dino-snore!", "I told my wife she was drawing her eyebrows too high. She looked too surprised",
+		 "And the Lord asaid unto John, Come forth and you will receive eternal life. But John came fifth, and won a toaster.",
+		 "I threw a boomerang a few years ago. I now live in constant fear.", "My wife accused me of being immature. I told her to get out of my fort.", 
+		"You dont need a parachute to go skydiving. You need a parachute to go skydiving twice.", 
+		"Parallel lines have so much in common. It's a shame they will never meet.", "Someone stole my mood ring, I don't know how i feel about that.",
+		"My grandfather has the heart of a lion and a lifetime ban at the zoo.", "Women only call me ugly until they find out how much money i make. Then they call me ugly and poor.", 
+		"How many Germans does it take to screw in a lighbulb? One, they're efficient and not very funny.", "You're not completely useless, you can always serve as a bad example.", "I broke my finger last week. On the other hand, I'm okay", 
+		"Apparently, someone in London gets stabbed every 52 seconds. Poor bastard."],
+     "context_set": ""
+    }
+   
+
+]
+}
