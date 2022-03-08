@@ -69,6 +69,32 @@ As you can see, Cartman and I had a really deep conversation lol. Cartman is als
 
 
 
+<h3>Chatbot 3.0</h3>
+
+In this notebook, we are going to use a feed-forward neural network to train a chatbot. This is my personal favourite method of creating a chatbot because we use json files as training data. In addition, the use of Tkinter(GUI) enhances the user experience.
+
+The use of json (JavaScript Oriented Notation) fomart, makes it possible for the chatbot to give different responses to a similar question. The previous NLP chatbot can still do this but less effectively.
+<h4>JSON Input</h4>
+
+![inputNN](https://user-images.githubusercontent.com/55271909/157267544-de0d527e-7ea7-4225-89df-b375d88615ad.png)
+
+
+
+Natural Language Processing tools will still be used in this chatbot such as WordNetLemmatizer to analyze, clean and stucture the text data.
+
+<h4>Output</h4>
+
+![outputNN](https://user-images.githubusercontent.com/55271909/157267391-010fb629-bd50-4385-a7d8-b054fba07aab.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
